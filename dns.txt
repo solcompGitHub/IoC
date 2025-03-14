@@ -1872,4 +1872,11 @@ xxxs.info
 kmsauto.us
 suporte0109202.myftp.biz
 
+serviciosgntportal.us
+asociadosarv.net
+app.pdq.com
+pdqinstallers.e9d69694c3d8f7465fd531512c22bd0f.r2.cloudflarestorage.com
+websocket.app.pdq.com
+connect.e9d69694c3d8f7465fd531512c22bd0f.r2.cloudflarestorage.com
+dedibox.fr
 
