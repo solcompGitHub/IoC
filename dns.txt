@@ -1880,3 +1880,8 @@ websocket.app.pdq.com
 connect.e9d69694c3d8f7465fd531512c22bd0f.r2.cloudflarestorage.com
 dedibox.fr
 
+mananfurniture.com
+medica-agency.com
+source.fotocycle.com
+voice-log.us-southeast-1.linodeobjects.com
+
